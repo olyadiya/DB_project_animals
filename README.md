@@ -14,7 +14,7 @@ erDiagram
     VARCHAR doc_id
     VARCHAR title
     INT year
-    INT author_id FK
+    INT author_id
   }
   animals_dictionary {
     INT animal_id
